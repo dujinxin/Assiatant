@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Assistant/Pods-Assistant-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FMDB/FMDB.framework
+${BUILT_PRODUCTS_DIR}/JXFMDBHelper/JXFMDBHelper.framework
+${BUILT_PRODUCTS_DIR}/JXFoundation/JXFoundation.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework

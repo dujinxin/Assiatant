@@ -1,0 +1,43 @@
+PODS:
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - JXFMDBHelper (0.1.1):
+    - FMDB (~> 2.7.2)
+  - JXFoundation (2.0.4.1):
+    - JXFoundation/Basic (= 2.0.4.1)
+    - JXFoundation/Core (= 2.0.4.1)
+    - JXFoundation/UIKit (= 2.0.4.1)
+  - JXFoundation/Basic (2.0.4.1):
+    - JXFoundation/Core
+    - JXFoundation/UIKit
+  - JXFoundation/Core (2.0.4.1)
+  - JXFoundation/UIKit (2.0.4.1):
+    - JXFoundation/Core
+  - MBProgressHUD (1.2.0)
+  - MJRefresh (3.3.1)
+
+DEPENDENCIES:
+  - JXFMDBHelper
+  - JXFoundation
+  - MBProgressHUD
+  - MJRefresh
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - JXFMDBHelper
+    - JXFoundation
+    - MBProgressHUD
+    - MJRefresh
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  JXFMDBHelper: 4658372cf70534ccdc7162f5d376f7421480035a
+  JXFoundation: 095f834b3e9d5ebf676fca430e706befbbbae979
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJRefresh: eeda70fbf0ad277f3178cef1cd0c3532591d6237
+
+PODFILE CHECKSUM: 72424bf437c6dfa7d90026fc9e91781893cf721c
+
+COCOAPODS: 1.9.1
